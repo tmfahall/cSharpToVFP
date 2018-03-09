@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWriter\TestWriter\bin\Debug\TestWriter.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWriter\TestWriter\bin\Debug\TestWriter.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWriter\TestWriter\bin\Debug\TestWriter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWriter\TestWriter\obj\Debug\TestWriter.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWriter\TestWriter\obj\Debug\TestWriter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWriter\TestWriter\obj\Debug\TestWriter.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWriter\TestWriter\obj\Debug\TestWriter.pdb

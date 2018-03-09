@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2017\Projects\TestUpdater\TestUpdater\bin\Debug\TestUpdater.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\TestUpdater\TestUpdater\bin\Debug\TestUpdater.exe
+c:\users\administrator\documents\visual studio 2017\Projects\TestUpdater\TestUpdater\bin\Debug\TestUpdater.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\TestUpdater\TestUpdater\obj\Debug\TestUpdater.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\TestUpdater\TestUpdater\obj\Debug\TestUpdater.csproj.CoreCompileInputs.cache
+c:\users\administrator\documents\visual studio 2017\Projects\TestUpdater\TestUpdater\obj\Debug\TestUpdater.exe
+c:\users\administrator\documents\visual studio 2017\Projects\TestUpdater\TestUpdater\obj\Debug\TestUpdater.pdb

@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2017\Projects\testConnector\testConnector\bin\Debug\testConnector.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\testConnector\testConnector\bin\Debug\testConnector.exe
+c:\users\administrator\documents\visual studio 2017\Projects\testConnector\testConnector\bin\Debug\testConnector.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\testConnector\testConnector\obj\Debug\testConnector.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\testConnector\testConnector\obj\Debug\testConnector.csproj.CoreCompileInputs.cache
+c:\users\administrator\documents\visual studio 2017\Projects\testConnector\testConnector\obj\Debug\testConnector.exe
+c:\users\administrator\documents\visual studio 2017\Projects\testConnector\testConnector\obj\Debug\testConnector.pdb

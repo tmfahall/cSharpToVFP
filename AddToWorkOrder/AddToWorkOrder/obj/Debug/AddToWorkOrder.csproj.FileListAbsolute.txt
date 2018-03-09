@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AddToWorkOrder\AddToWorkOrder\bin\Debug\AddToWorkOrder.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AddToWorkOrder\AddToWorkOrder\bin\Debug\AddToWorkOrder.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AddToWorkOrder\AddToWorkOrder\bin\Debug\AddToWorkOrder.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AddToWorkOrder\AddToWorkOrder\obj\Debug\AddToWorkOrder.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AddToWorkOrder\AddToWorkOrder\obj\Debug\AddToWorkOrder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AddToWorkOrder\AddToWorkOrder\obj\Debug\AddToWorkOrder.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AddToWorkOrder\AddToWorkOrder\obj\Debug\AddToWorkOrder.pdb
