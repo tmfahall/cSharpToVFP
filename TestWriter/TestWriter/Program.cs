@@ -1,28 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Data.OleDb;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TestWriter
 {
     class Program
     {
-        //
 
         static void write(string NAME, string ACCOUNT, string ID, DateTime DATE, string TIME, string DOCTYPE, string REFERENCE, string NOTE, string DATA, string FAXDATA, string BIN, string MLTSTORE, string NOTE2, string ORDERTYPE, string FILENAME, string TAG, string REFERENCE2)
         {
             OleDbConnection connection = new OleDbConnection(
             "Provider=VFPOLEDB.1;Data Source=C:\\Users\\Administrator\\Desktop");
 
+            //when inserting data all fields must be accounted for in order.
             string MyInsert = "insert into DOCUMENT (NAME, ACCOUNT, ID, DATE, TIME, DOCTYPE, REFERENCE, NOTE, DATA, FAXDATA, BIN, MLTSTORE, NOTE2, ORDERTYPE, FILENAME, TAG, REFERENCE2) " +
                 "values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+
             OleDbDataAdapter DA = new OleDbDataAdapter();
-            
-            //
-            //
 
             connection.Open();
             DateTime dt = DateTime.Now;
@@ -56,7 +50,6 @@ namespace TestWriter
 
         static void Main(string[] args)
         {
-
             string NAME = "test";
             string ACCOUNT = "test";
             string ID = "test";
@@ -77,8 +70,6 @@ namespace TestWriter
 
             write(NAME, ACCOUNT, ID, DATE, TIME, DOCTYPE, REFERENCE, NOTE, DATA, FAXDATA, BIN, MLTSTORE, NOTE2, ORDERTYPE, FILENAME, TAG, REFERENCE2);
             
-            //
-
             Console.ReadLine();
         }
     }
