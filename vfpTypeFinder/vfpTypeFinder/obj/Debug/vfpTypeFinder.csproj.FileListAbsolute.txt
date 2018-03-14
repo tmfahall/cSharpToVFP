@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\vfpTypeFinder\vfpTypeFinder\obj\Debug\vfpTypeFinder.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\vfpTypeFinder\vfpTypeFinder\obj\Debug\vfpTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\vfpTypeFinder\vfpTypeFinder\bin\Debug\vfpTypeFinder.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\vfpTypeFinder\vfpTypeFinder\bin\Debug\vfpTypeFinder.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\vfpTypeFinder\vfpTypeFinder\bin\Debug\vfpTypeFinder.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\vfpTypeFinder\vfpTypeFinder\obj\Debug\vfpTypeFinder.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\vfpTypeFinder\vfpTypeFinder\obj\Debug\vfpTypeFinder.pdb
